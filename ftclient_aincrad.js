@@ -8,7 +8,7 @@
   const OWNER_NAME = "ARAFAT";
   const OWNER_TG = "https://t.me/ftgaming2";
   const CHANNEL_TG = "https://t.me/+Qjrl3DUTGVU2MWZl";
-  const KEY_CHECK_URL = 'https://raw.githubusercontent.com/arafthosanafrat365-hue/Workers-Dev-/refs/heads/main/Cheker.text';
+  const KEY_CHECK_URL = 'https://raw.githubusercontent.com/arafathosan109-maker/ft_client_time-loader/refs/heads/main/timer.text';
   const TIMER_URL = 'https://raw.githubusercontent.com/rifatislam50/Timer.text-/refs/heads/main/Time _loader.text';
 
 
